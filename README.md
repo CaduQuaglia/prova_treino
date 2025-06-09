@@ -54,7 +54,7 @@ C) III e IV, apenas.
 D) II, III e IV, apenas.  
 E) Todas as afirmativas estão corretas.
 
-Resposta: C
+Resposta: A
 
 ### QUESTÃO 3 – Banco de Dados Não Relacionais
 Uma startup desenvolvendo uma aplicação de redes sociais decidiu utilizar um banco de dados do tipo NoSQL para armazenar informações de perfis de usuários, postagens e relações de amizade. A escolha se deu pela flexibilidade de estrutura e pela necessidade de escalar horizontalmente a aplicação com facilidade.
@@ -88,7 +88,7 @@ C) I, III e IV, apenas.
 D) I, II e III, apenas.  
 E) Todas as afirmativas estão corretas.
 
-Resposta: E
+Resposta: A
 
 ### QUESTÃO 5 – Anatomia de uma Aplicação em Camadas
 Um grupo de desenvolvedores está projetando uma aplicação web corporativa e decidiu utilizar uma arquitetura em camadas para garantir a manutenibilidade e a escalabilidade do sistema. O sistema será dividido entre a camada de apresentação (frontend), a camada de negócios (backend) e a camada de dados (banco de dados). Cada camada terá responsabilidades bem definidas.
